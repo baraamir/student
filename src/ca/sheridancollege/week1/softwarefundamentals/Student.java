@@ -14,6 +14,8 @@ public class Student {
     private String name;
     private double GPA;
     private String email;
+    private int ID;
+    private String yowan;
 
     public void setGPA(double GPA) {
         this.GPA = GPA;
